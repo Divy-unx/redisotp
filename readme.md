@@ -113,7 +113,7 @@ Example:
 curl -X POST "http://localhost:8081/otp/generate?phone=9876543210"
 ```
 
-Example response:
+Example response:--
 
 ```text
 1234
